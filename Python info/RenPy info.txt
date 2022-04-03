@@ -1,6 +1,0 @@
-Read about transforms and image positioning
-read about transitions
-read about music channels
-
-
-add special RenPy Commands like open terminal
