@@ -1,8 +1,8 @@
 - you can create debug configuration from different workspaces/projects (python/debug)
 - you can create virtual environment:
-	check current enabled python version: "py -3 --version"
-	create env: "py -3 -m venv .venv"
-	activate environment: ".venv\scripts\activate" (in selected env can contain libraries)
+	check current enabled python version: "python3 --version (linux)" or "py -3 --version"
+	create env: "python3 -m venv .venv"
+	activate environment: "source .venv\bin\activate" (in selected env can contain libraries)
  
 - how i can run py file
 	1. press run button in the top right corner

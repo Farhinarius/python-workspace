@@ -1,3 +1,6 @@
+from numpy import arange
+
+
 msg = "Hello World" 
 print(msg)
 print("*" * 52)
