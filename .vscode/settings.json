@@ -7,4 +7,6 @@
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": false,
     "python.languageServer": "Default",
+    "python.analysis.extraPaths": [],
+    "python.analysis.completeFunctionParens": true,
 }
