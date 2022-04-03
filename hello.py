@@ -1,6 +1,6 @@
 msg = "Hello World"
 print(msg)
-print("*" * 162)
+print("*" * 52)
 
 a = 5
 b = a + 95
